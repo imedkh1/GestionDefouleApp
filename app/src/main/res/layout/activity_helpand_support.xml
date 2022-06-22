@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".HelpandSupportActivity">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/txtLayout"
+        android:src="@drawable/ic_help"/>
+
+    <RelativeLayout
+        android:id="@+id/txtLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="en cas de bug ou si vous souhaitez en savoir plus sur l'application, veuillez contacter l'un de ces e-mails :"/>
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt1"
+            android:layout_marginHorizontal="50dp"
+            android:text="- imed.khorief@univ-constantine2.dz"
+
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_below="@+id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:textColor="@color/black"
+
+        android:text="- ahmedanis.daikh@univ-constantine2.dz"
+        android:textStyle="bold" />
+    </RelativeLayout>
+</RelativeLayout>

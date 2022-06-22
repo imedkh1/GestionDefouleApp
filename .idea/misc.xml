@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/arrow_back.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/costum_input.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/custom_button_login.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/custom_email_icon.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/custom_phone_icon.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/custom_profile_picture.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/cutom_edittext.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_add_store.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_close.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_connected_gadget.xml" value="0.265" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_email.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_email_focused.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_phone.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_phone_focused.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_profile.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_profile_white.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_save.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_store.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_store_crowded.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/ic_store_medium.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/item_selector.xml" value="0.265" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/item_selector_light.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/round_corner.xml" value="0.265" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/round_corner_light.xml" value="0.2545" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/searchplace_bg.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/drawable/squareshape.xml" value="0.218" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/activity_distancing.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/activity_edit_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/activity_helpand_support.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/activity_history.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/activity_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/activity_search_places.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/historyitem.xml" value="0.3" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/layout/placeitem.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GestionDefouleApp/app/src/main/res/menu/bottom_nav_bar.xml" value="0.365625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

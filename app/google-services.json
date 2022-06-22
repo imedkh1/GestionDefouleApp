@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821928714773",
+    "firebase_url": "https://gestiondefouleapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gestiondefouleapp",
+    "storage_bucket": "gestiondefouleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821928714773:android:eaaa429c083bde60eee41c",
+        "android_client_info": {
+          "package_name": "com.example.gestiondefouleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821928714773-u70j7qku7kib16s7sefiq6lt7r4npl21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_A2RdgFVR0zk17LkDuxUrr-YefqQ0f9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821928714773-u70j7qku7kib16s7sefiq6lt7r4npl21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
